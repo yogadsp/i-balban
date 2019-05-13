@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ibalban</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ibalban">IBALBAN</string>
+    <string name="email_username">Email / Username</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="belum_punya_akun">Belum punya akun ?</string>
+    <string name="register">Register</string>
+    <string name="submit">SUBMIT</string>
+    <string name="launch_place_picker">Launch Place Picker</string>
+    <string name="logo_ibalban">Logo Ibalban</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="logout">Logout</string>
+    <string name="daftar_agen">Daftar Agen</string>
+    <string name="info_akun">Info Akun</string>
+
+    <string name="app_name_transport">Transport Tracker</string>
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="transport_id" translatable="false">123</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="firebase_email" translatable="false">test@example.com</string>
+    <string name="firebase_password" translatable="false">password</string>
+    <string name="henti_egen">Berhenti Menjadi Agen</string>
+</resources>
