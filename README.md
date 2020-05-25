@@ -1,6 +1,7 @@
 # i-balban (Informasi Tambal Ban)
 
-Aplikasi yang digunakan untuk menemukan tambal ban yang ada di sekitar kita yang sudah terhubung dengan API Google Maps.
+Aplikasi berbasis Android yang digunakan untuk menemukan tambal ban yang ada di sekitar kita yang sudah terhubung dengan API Google Maps.
+
 
 ## Fitur
 
