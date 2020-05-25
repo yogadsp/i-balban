@@ -10,3 +10,10 @@ Aplikasi berbasis Android yang digunakan untuk menemukan tambal ban yang ada di 
 + Mengubah informasi pada titik lokasi tambal ban.
 + Menghapus titik lokasi tambal ban.
 + Melihat daftar titik lokasi tambal ban melalui map.
+
+---
+### Tools
+
+Language : Java
+API : Google Maps
+Others : Firebase Realtime Database, Firebase Authentication
