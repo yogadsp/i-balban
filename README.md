@@ -14,6 +14,6 @@ Aplikasi berbasis Android yang digunakan untuk menemukan tambal ban yang ada di 
 ---
 ### Tools
 
-Language : Java
-API : Google Maps
+Language : Java\
+API : Google Maps\
 Others : Firebase Realtime Database, Firebase Authentication
