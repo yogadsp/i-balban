@@ -17,3 +17,7 @@ Aplikasi berbasis Android yang digunakan untuk menemukan tambal ban yang ada di 
 Language : Java\
 API : Google Maps\
 Others : Firebase Realtime Database, Firebase Authentication
+
+---
+#### Kontak
+Jika ada hal yang ditanyakan hubungi yogaseptana(at)gmail(dot)com dengan Subjek "Smart Trash"
