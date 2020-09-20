@@ -20,4 +20,4 @@ Others : Firebase Realtime Database, Firebase Authentication
 
 ---
 #### Kontak
-Jika ada hal yang ditanyakan hubungi yogaseptana(at)gmail(dot)com dengan Subjek "Smart Trash"
+Jika ada hal yang ditanyakan hubungi yogaseptana(at)gmail(dot)com dengan Subjek "I-Balban"
